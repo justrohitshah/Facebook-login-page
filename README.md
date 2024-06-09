@@ -1,1 +1,1 @@
-"Facebook-Login-or sign up"
+"Facebook-login or sign up"
